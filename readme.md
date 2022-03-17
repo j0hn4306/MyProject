@@ -1,3 +1,3 @@
-# My First Project
+# Natural Language Processing
 
-Here is a cool GitHub reposiotry
+Predicting if a review is positive or negative based on the language used in the review.
