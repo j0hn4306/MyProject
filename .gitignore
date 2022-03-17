@@ -1,0 +1,7 @@
+moviereviews.tsv
+README.md
+UT2016-2018.csv
+UTfires.csv
+.DS_Store
+*.ipynb/checkpoints/
+*.ipynb_checkpoints/
